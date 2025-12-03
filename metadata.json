@@ -1,0 +1,7 @@
+{
+  "name": "NekoMimi",
+  "description": "A real-time interactive 3D anime cat controlled by your hand gestures using Gemini 2.5 Multimodal API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
